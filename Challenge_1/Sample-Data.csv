@@ -1,0 +1,11 @@
+ID,AGE,INCOME,HOME_VAL,MSTATUS,GENDER,OCCUPATION,TRAVTIME,CAR_USE,CAR_VAL,CAR_TYPE,OLDCLAIM,CAR_AGE,CLAIM_FLAG
+6358174,60,"$67,349 ",$0 ,No,M,Professional,14,Private,"$14,230 ",Minivan,"$4,461 ",18,0
+6358174,60,"$67,349 ",$0 ,No,M,Professional,14,Private,"$14,230 ",Minivan,"$4,461 ",18,0
+9213170,48,"$52,881 ",$0 ,No,M,Blue Collar,26,Private,"$21,970 ",Van,,10,1
+7275984,35,"$16,039 ","$124,191 ",No,F,Teacher,5,Private,"$4,010 ",SUV,"$38,690 ",10,0
+4502218,51,,"$306,251 ",No,M,Blue Collar,32,Private,"$15,440 ",Minivan,$0 ,6,0
+7431465,50,"$114,986 ","$243,925 ",No,F,Doctor,36,Prrivate,"$18,000 ",SUV,"$19,217 ",17,0
+8710246,34,"$125,301 ",$0 ,No,Female,Manager,46,Commercial,"$17,430 ",Sports Car,$0 ,7,1
+7923005,540,"$18,755 ",,No,F,Blue Collar,33,Private,"$8,780 ",SUV,$0 ,1,0
+7945239,40,"$50,815 ",$0 ,No,M,Manager,21,Commercial,"$18,930 ",Minivan,"$3,295 ",1,1
+3577610,44,"$43,486 ",$0 ,No,F,Blue Collar,30,Private,"$5,900 ",SUV,$0 ,10,0
